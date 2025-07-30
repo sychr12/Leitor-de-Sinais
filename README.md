@@ -1,2 +1,2 @@
-# Leitor-de-Sinais
+# Leitor-de-Sinais  (TensorFlow)
 Python 3.11 
